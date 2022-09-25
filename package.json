@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "team_project_1",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Makzumm.github.io/goit-team-project",
+  "homepage": "https://SPoluliakh.github.io/team_project_1",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-team-project/"
+    "build": "parcel build src/*.html --public-url /team_project_1/"
   },
   "repository": {
     "type": "git",
