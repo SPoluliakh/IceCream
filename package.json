@@ -1,11 +1,11 @@
 {
-  "name": "icecream",
+  "name": "ice-cream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SPoluliakh.github.io/icecream",
+  "homepage": "https://SPoluliakh.github.io/ice-cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /icecream/"
+    "build": "parcel build src/*.html --public-url /ice-cream/"
   },
   "repository": {
     "type": "git",
